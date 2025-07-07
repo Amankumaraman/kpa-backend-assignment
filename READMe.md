@@ -1,6 +1,3 @@
-### ✅ `README.md`
-
-````markdown
 # 🚆 KPA Backend Assignment – API Implementation (Django + PostgreSQL)
 
 This project implements three backend API endpoints based on the provided `KPA_form data.postman_collection.json`. The APIs handle form submissions and querying for wheel specifications and bogie checksheets in a railway system.

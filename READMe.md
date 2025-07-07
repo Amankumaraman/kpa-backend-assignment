@@ -114,7 +114,7 @@ kpa_backend_assignment/
 
 ## 🎥 Video Demo
 
-📽️ Video Link: `https://drive.google.com/file/d/aman_kpa_assignment_demo.mp4`
+📽️ Video Link: `confidential`
 
 Demo includes:
 
